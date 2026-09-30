@@ -56,3 +56,11 @@ CyberRisk-Assessment/
 ├── app.py
 ├── run.bat
 └── README.md
+
+
+### Then upload it:
+
+```powershell
+git add README.md
+git commit -m "Add detailed README"
+git push
